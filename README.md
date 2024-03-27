@@ -5,11 +5,8 @@ This repository contains an analytical project focused on understanding customer
 
 Project Structure:
 Imports: Setting up the necessary Python libraries for data manipulation and visualization.
-
 Data Retrieval: Loading and examining the customer dataset to understand its structure and contents.
-
 Exploratory Data Analysis (EDA): Conducting an initial analysis to explore the data, understand the distributions of key variables, and identify relationships between them.
-
 Linear Regression Model: Developing a model to predict customer spending based on their interactions with the mobile app and website, and evaluating the model's performance.
 
 Key Findings:
